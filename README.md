@@ -21,6 +21,9 @@ The central theme is that you roll the dice until you either strike out or stop.
 - A roll of five 1's gives instant victory. 
 
 ### Other rules
-The game is typically played as first to 10000. However once someone surpasses this, every other player get's one final turn in which to try to beat them.
-Each player must initially roll at least 350 from scratch to get onto the scoreboard.
-This means that 'hot dice' don't pass to playes that are yet to score. 
+- The game is typically played as first to 10000. However once someone surpasses this, every other player get's one final turn in which to try to beat them.
+- Each player must initially roll at least 350 from scratch to get onto the scoreboard. This means that 'hot dice' don't pass to playes that are yet to score.
+- For combination rolls, all the dice must have been rolled at the same time. i.e. if a 1 has been scored leaving four dice, then two more 1's are rolled this does not count as a three of a kind and the score so far would be 300 with two dice remaining.
+
+## Licence
+GNU 3.0. 
